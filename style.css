@@ -523,3 +523,12 @@ margin-top: 10px;
   color: white;
 }
 
+.project .card a{
+  text-decoration: none;
+  color: white;
+}
+
+.project .card a :hover{
+    color: rgb(221, 221, 217);
+}
+
